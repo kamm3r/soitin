@@ -1,5 +1,5 @@
 # Soitin - Video Player
-
+WIP
 ## Setup
 
 ```bash
@@ -17,4 +17,5 @@ npm run dev
   	- [ ] next video
 - [ ] add captions
 - [ ] video quality options
+- [ ] add tailwind styling support
 - [x] fix auto hide controls
